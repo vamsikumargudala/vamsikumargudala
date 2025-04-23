@@ -7,20 +7,17 @@ With over two years at [o9 Solutions](https://o9solutions.com/), I worked on Sup
 ## My Tech Stack
 
 ### Languages
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> Python
-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> Java
-- <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> SQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
 ### Data Tools
-- <img src="https://img.shields.io/badge/Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"> Apache Airflow
-- <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Py-Spark"> Py-Spark
-- <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive"> Hive
-- <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"> Hadoop
-- <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"> Spark
-- <img src="https://img.shields.io/badge/NiFi-28A86B?style=for-the-badge&logo=apache-nifi&logoColor=white" alt="NiFi"> NiFi
+<img src="https://img.shields.io/badge/Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"><img src="https://img.shields.io/badge/NiFi-28A86B?style=for-the-badge&logo=apache-nifi&logoColor=white" alt="NiFi">
+
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Py-Spark"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop">
+
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive">
 
 ### Cloud
-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> AWS
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 
 ### Machine Learning
 - RAG (Retrieval Augmented Generation)
