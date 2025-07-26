@@ -1,8 +1,10 @@
 # Hi, I'm Vamsi! 👋
 
-I'm a Software Engineer passionate about Big Data and Machine Learning. At [Extreme Networks](https://www.extremenetworks.com/), I'm part of the AI Core team, building AWS infrastructure for Retrieval Augmented Generation (RAG) and optimizing AI performance with content embedding pipelines.
+Software Engineer focused on Big Data and Machine Learning.
 
-With over two years at [o9 Solutions](https://o9solutions.com/), I worked on Supply Chain Data Management, designing data integration pipelines and ensuring high-quality data for decision-making. I migrated ETL pipelines to Apache Airflow, developed Py-Spark scripts for batch processing, and leveraged Hadoop, Spark, and Hive for scalable data workflows.
+Currently building AWS infrastructure for Retrieval Augmented Generation (RAG) systems on the AI Core team, optimizing content embedding pipelines for better AI performance. Previously worked in Supply Chain Data Management, designing data integration pipelines and migrating ETL processes to Apache Airflow.
+
+Experience with PySpark for batch processing, Hadoop, Spark, and Hive for scalable data workflows. I solve problems around making large-scale data systems reliable and turning complex data into actionable insights.
 
 ## My Tech Stack
 
